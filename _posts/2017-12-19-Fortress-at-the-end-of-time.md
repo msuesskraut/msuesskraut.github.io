@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Buch-Kritik: Fortress at the End of' 
-tags: [book, sf]
+title: 'Buch-Kritik: Fortress at the End of'
+category: book
+tags: [book, sf, fiction]
 ---
 
 Von Joe M. McDermatt, Belletristik auf Englisch
