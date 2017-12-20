@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buch-Kritik: Fortress at the End of'
+title: 'Buch-Kritik: Fortress at the End of Time'
 category: book
 tags: [book, sf, fiction]
 ---
