@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Buch-Kritik: Paradox (Band 1 & 2)'
+category: book
+tags: [book, sf, fiction]
+---
+
+Von Philipp P. Peterson, Belletrisik auf Deutsch
+
+Paradox 1 gibt eine innovative Auflösung auf das Fermi-Paradox. Die Erzählung beschreibt sehr interessant und mit vielen Details und großer Breite die Vorbereitung auf einen Raumflug. Auch wenn der Antrieb der aus dem Teil F in SF stammt, ist die Beschreibung sehr realitätsnah und glaubhaft und deswegen sehr interessant. Hier könnte man schon von "Hard Science Fiction" sprechen. Die Geschichte hat einen runden Abschluss.
+
+Die Existenz von Paradox 2 zerstört leider etwas den runden Abschluss von Paradox 1.Die Geschichte ist im Gegensatz zu Paradox 1 sehr viel mehr Fantasy als Science. Das Auftauchen von Albert Einstein wirkt beliebig und ist etwas albern. Beim tieferer Betrachtung wird in Paradox 2 eine kleine Lücke aus Paradox 1 wieder aufgegriffen. Es hätte diesem Aufgriff nicht bedurft, aber schaden tut er auch nicht. Im zweiten Teil dreht sich alles um Kosmologie.
+
+In beiden Büchern kommt Petersons Hang zu einem langen Spannungsbogen mit einem schnellen Ende zu tragen. Besonders Paradox 1 hätte einen etwas langsameren Abschluss verdient. Wobei das plötzliche Ende durchaus folgerichtig erscheint.
+
+Empfehlung: Paradox 1 unbedingt lesen. Paradox 2 nur, wenn man unbedingt die Figuren aus Teil 1 wiedersehen will. 
