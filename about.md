@@ -6,6 +6,8 @@ permalink: /about/
 
 Dieser Blog diskutiert Bücker, Code sowie dieses und jenes.
 
+*Spoiler: Es fällt schwer ohne Spoiler über Bücher (oder auch andere Medien) zu schreiben. Deswegen gibt es hier die Warnung, dass alle Texte Spoiler enthalten können. Ich versuche die größten und besten Überraschungen zurück zu halten und keine Enden zu verraten. Es wird aber nicht immer gelingen.*
+
 ### Über mich
 
 Ich lebe mit meiner Familie in [Dresden](http://dresden.de/) und bin ein Softwareentwickler, der gerne liest. 
