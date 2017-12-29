@@ -5,7 +5,6 @@ category: book
 tags: [book, sf, fiction, expanse]
 ---
 
-Persepolis Rising: Book 7 of the Expanse
 Von James S. A. Corey, Belletristik auf Englisch
 
 Endlich, war die Wartezeit herum. Der siebente Teil der Expanse-Serie ist wie gewohnt spannend und überzeugt durch eine glaubwürdig gebaute Science Fiction Welt. In Persepolis Rising geht mehr um Politik und Krieg als um neue Entdeckungen. Damit steht Band 7, schon die Bänden davor, etwas im Gegensatz zu den Anfängen der Expanse-Serie, in denen es mehr um Entdeckungen und Wunder ging.
