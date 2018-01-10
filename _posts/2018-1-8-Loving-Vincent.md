@@ -11,6 +11,8 @@ Loving Vincent ist ein Besuch in der Lebenswelt und den Bildern von Vincent Van 
 
 Der Film ist definitiv eine Hommage an Vincent Van Gogh. Sowohl das Hinterfragen seines Freitodes als auch die mehr oder weniger geschickt in die Geschichte eingebauten Bilder des Malers frühen den Zuschauer berührend nah an die Lebenswelt von Vincent heran.  Dieser Film ist damit wesentlich schöner als der Abschnitt über Vincent Van Gogh in der Ausstellung [Monet2Klimt](https://monet2klimt.de/).
 
+Ein Kritikpunkt: Der Film enthält viele Rückblenden, die in schwarz-weiß gedreht sind. Die Rückblenden sind inhaltlich wichtig. Allerdings passen das Schwarz/Weiß nicht so richtig in den Film. In jeder dieser Sequenzen habe ich mir gewünscht schnell zur "Farbwelt" zurückkehren zu können.
+
 Empfehlung: Wer Impressionisten oder Van Goghs Bilder mag: Unbedingt ansehen! Alle anderen: Der Film ist sehr empfehlenswert.
 
 PS: Alle Doctor Who Fans werden bei dem Film sicherlich an die Folge „Vincent und der Doktor“ aus Staffel 5 denken. Ich musste mir die Folge am gleichen Abend ansehen.
