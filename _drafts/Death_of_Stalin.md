@@ -5,7 +5,7 @@ category: movie
 tags: [movie, fiction, comedy]
 ---
 
-Komödie von 2017
+Internationale Komödie von 2017
 
 [Death of Stalin](http://www.deathofstalin-film.de/home/) ist eine Komödie über den Machtkampf in der Führungsriege der Sowjetunion nach dem Tode Stalins.
 Im Film geht es um die wenigen Tage zwischen dem Tod und der Beerdigung von Stalin.
