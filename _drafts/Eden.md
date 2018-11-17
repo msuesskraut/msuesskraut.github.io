@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buch-Kritik: Homo Deus: A brief history of tomorrow'
+title: 'Buch-Kritik: E.d.e.n.'
 category: book
 tags: [book, fiction, sf]
 ---
