@@ -555,9 +555,9 @@ __exports.__wbindgen_jsval_eq = function(a, b) {
     return getObject(a) === getObject(b) ? 1 : 0;
 };
 
-__exports.__wbindgen_closure_wrapper53 = function(a, b, _ignored) {
-    const f = wasm.__wbg_function_table.get(14);
-    const d = wasm.__wbg_function_table.get(15);
+__exports.__wbindgen_closure_wrapper57 = function(a, b, _ignored) {
+    const f = wasm.__wbg_function_table.get(19);
+    const d = wasm.__wbg_function_table.get(20);
     const cb = function(arg0) {
         this.cnt++;
         let a = this.a;
