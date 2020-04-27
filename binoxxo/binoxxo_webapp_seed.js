@@ -204,11 +204,11 @@ function __wbg_adapter_20(arg0, arg1, arg2) {
 }
 
 function __wbg_adapter_23(arg0, arg1, arg2) {
-    wasm.wasm_bindgen__convert__closures__invoke1_mut__he0d0104a0556aac4(arg0, arg1, arg2);
+    wasm.wasm_bindgen__convert__closures__invoke1_mut__h1b7f53b8e5a8361a(arg0, arg1, arg2);
 }
 
 function __wbg_adapter_26(arg0, arg1, arg2) {
-    wasm.wasm_bindgen__convert__closures__invoke1_mut__hd67051d2f4edb641(arg0, arg1, addHeapObject(arg2));
+    wasm.wasm_bindgen__convert__closures__invoke1_mut__h23c43be98b682732(arg0, arg1, addHeapObject(arg2));
 }
 
 /**
