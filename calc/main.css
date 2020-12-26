@@ -1,0 +1,35 @@
+body {
+  background-color: #efefef;
+  color: #202020;
+}
+
+.command {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: #202020;
+}
+
+.success {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  color: #202020;
+}
+
+.failure {
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+  color: red;
+}
+
+.footer {
+  text-align: center;
+  color: dimgray;
+  font-size: 60%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer a {
+  color: dimgray;
+}
+.footer a :hover {
+  text-underline-position: below;
+}
