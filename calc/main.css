@@ -3,6 +3,10 @@ body {
   color: #202020;
 }
 
+.h1 {
+  text-align: center;
+}
+
 .command {
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
@@ -19,6 +23,11 @@ body {
   font-family: "Courier New", Courier, monospace;
   font-style: italic;
   color: red;
+}
+
+.prompt {
+  color: orange;
+  font-weight: bolder;
 }
 
 .footer {
