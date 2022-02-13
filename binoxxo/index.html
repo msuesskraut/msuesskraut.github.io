@@ -1,44 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head profile="http://www.w3.org/2005/10/profile">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <meta name="description" content="Binoxxo">
-
-    <link rel="icon" type="image/png" href="./favicon.png">
-
-    <!-- Bootstrap 5.0.2 -->
-    <link rel="stylesheet" href="bootstrap.min.css">
-
-    <link rel="stylesheet" type="text/css" href="./main.css">
 
     <title>Binoxxo</title>
 
-</head>
+    
+    
+    
+
+    <link rel="icon" href="/favicon-486e1978fe56a98e.png">
+
+    <!-- Bootstrap 5.0.2 -->
+    <link rel="stylesheet" href="/bootstrap.min-e3e3370a94fa6ffa.css">
+
+    <link rel="stylesheet" href="/main-c7e30ff7d93e5ae6.css">
+    <base href="/">
+
+<link rel="preload" href="/index-3173596b0902f480_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/index-3173596b0902f480.js"></head>
+
 <body>
-<section id="app"></section>
+    <script src="jquery-3.6.0.slim.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
 
-<!-- Bootstrap 5.0.2 -->
-<script src="jquery-3.6.0.slim.min.js"></script>
-<script src="bootstrap.bundle.min.js"></script>
+    <div id="app">
+    </div>
 
-<!-- Binoxxo Webapp -->
-<script src='./binoxxo_webapp_seed.js'></script>
 
-<script>
-    // the `wasm_bindgen` global is set to the exports of the Rust module
-    const { render } = wasm_bindgen;
-    // we'll defer our execution until the wasm is ready to go
-    function run() {
-        render();
-    }
-    // here we tell bindgen the path to the wasm file so it can run
-    // initialization and return to us a promise when it's done
-    wasm_bindgen('./binoxxo_webapp_seed_bg.wasm')
-        .then(run)
-        .catch(console.error);
-</script>
-
-</body>
-</html>
+<script type="module">import init from '/index-3173596b0902f480.js';init('/index-3173596b0902f480_bg.wasm');</script></body></html>
