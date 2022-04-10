@@ -1,44 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <meta name="description" content="Calculator">
-
-    <link rel="icon" type="image/png" href="./favicon.png">
-
-    <!-- Bootstrap 4.5.3 -->
-    <link rel="stylesheet" href="bootstrap.min.css">
-
-    <link rel="stylesheet" type="text/css" href="./main.css">
 
     <title>Calculator</title>
 
-</head>
-<body>
-<section id="app"></section>
+    <link rel="icon" href="/calc/favicon-a170ee94c7630764.png">
 
-<!-- Bootstrap 4.5.3 -->
+    <!-- Bootstrap 5.0.2 -->
+    <link rel="stylesheet" href="/calc/bootstrap.min-e3e3370a94fa6ffa.css">
+    
+    
+
+    <link rel="stylesheet" href="/calc/main-ba62395a209a4049.css">
+    <base calc="" href="/calc/">
+
+    <script type="module">import init from '/calc/index-9b748701eaeb634a.js';init('/calc/index-9b748701eaeb634a_bg.wasm');</script>
+
+<link rel="preload" href="/calc/index-9b748701eaeb634a_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/calc/index-9b748701eaeb634a.js"></head>
+<body>
+
+<!-- Bootstrap 5.0.2 -->
 <script src="jquery-3.6.0.slim.min.js"></script>
 <script src="bootstrap.bundle.min.js"></script>
 
 <!-- Calc Webapp -->
-<script src='./calc_seed.js'></script>
-
-<script>
-    // the `wasm_bindgen` global is set to the exports of the Rust module
-    const { render } = wasm_bindgen;
-    // we'll defer our execution until the wasm is ready to go
-    function run() {
-        render();
-    }
-    // here we tell bindgen the path to the wasm file so it can run
-    // initialization and return to us a promise when it's done
-    wasm_bindgen('./calc_seed_bg.wasm')
-        .then(run)
-        .catch(console.error);
+<section id="app"></section>
+<script type="module">
+    import init from '/calc_seed.js';
+    init('./calc_seed_bg.wasm');
 </script>
 
-</body>
-</html>
+
+
+</body></html>
